@@ -9,7 +9,8 @@ Currently supported operations:
 
 ## Description
 
-The service API root is at ``/api/services/auction/v1`. Below is the current list of endpoints:
+The service API root is at `/api/services/auction/v1`. Below is the current list of endpoints:
+
  | Endpoint                          | Operation                                            |
  |-----------------------------------|------------------------------------------------------|
  | `GET /wallet?pub_key={PublicKey}` | retrieve a wallet for the specified public key       |
