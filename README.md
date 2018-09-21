@@ -6,6 +6,8 @@ Currently supported operations:
  - create a lot belonging to a participant
  - place a bid
  - retrieve full bid history for a lot
+ 
+Participating requires all parties to create wallets - lot owners receive transfers when a lot is closed (to be implemented), and bid placement requires sufficient amount of funds.
 
 ## Description
 
